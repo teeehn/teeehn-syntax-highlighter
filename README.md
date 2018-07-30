@@ -1,4 +1,5 @@
-# WordPress Syntax highlighter
+# Teeehn Syntax Highlighter
+### Syntax highlighter for WordPress
 
 ## This is a very simple implementation of [highlight.js](https://highlightjs.org/)
 Currently provides syntax highlighting using the obsidian theme.
