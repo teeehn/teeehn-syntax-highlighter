@@ -5,7 +5,8 @@ Currently provides syntax highlighting using the obsidian theme.
 
 ## Usage
 
-1) Install the plugin into your WordPress plugin directory.
-2) Activate plugin.
-3) Wrap the code you would like to highlight in `<pre><code></code></pre>`
-4) Enjoy!
+1) Click "Clone or Download" button above. Select option to "Download zip".
+2) Install the plugin into your WordPress plugin directory via the admin of your WordPress site or by uploading the zip file to your plugin directory and unzipping.
+3) Activate plugin.
+4) Wrap the code you would like to highlight in `<pre><code></code></pre>`
+5) Enjoy!
